@@ -1,0 +1,6 @@
+{
+  "name": "QUẢN LÝ LỚP CHỦ NHIỆM 9/2 – NĂM HỌC 2026–2027",
+  "description": "Hệ thống quản lý lớp chủ nhiệm 9/2 THCS: hồ sơ học sinh, điểm danh hằng ngày, theo dõi học tập rèn luyện, phòng ngừa bỏ học, liên hệ phụ huynh và báo cáo xuất dữ liệu Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
